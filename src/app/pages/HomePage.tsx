@@ -661,7 +661,7 @@ export function LandingPage() {
                 <div className="w-9 h-9 bg-[#F5A623] rounded-lg flex items-center justify-center">
                   <GraduationCap className="w-5 h-5 text-white" />
                 </div>
-                <span className="font-bold text-xl tracking-wide">ARYAVARTA</span>
+                <span className="font-bold text-xl tracking-wide">ARYAVARTACLASSES</span>
               </div>
               <p className="text-white/60 text-sm leading-relaxed">Transforming education infrastructure into scalable business</p>
             </div>
@@ -689,7 +689,7 @@ export function LandingPage() {
               <ul className="space-y-2 text-white/60 text-sm">
                 <li>info@aryavarta.edu</li>
                 <li>+91 98765 43210</li>
-                <li>Bangalore, India</li>
+                <li>Gorakhpur, Uttar Predesh, India</li>
               </ul>
             </div>
           </div>
@@ -703,9 +703,6 @@ export function LandingPage() {
   );
 }
 
-/* ─────────────────────────────────────────
-   DASHBOARD VIEW
-───────────────────────────────────────── */
 export function DashboardView() {
   const features = [
     {
